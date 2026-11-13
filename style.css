@@ -1,0 +1,52 @@
+body{
+    background-color:#eba9c6;
+}
+
+h2{
+   background-color:#b8a9c9;
+   font-family: arial;
+    text-align:center;
+}
+
+div {
+    font-family: New Times Roman;
+    background-color: pink;
+    color: purple;
+    text-decoration: none;
+}
+
+.span1 {
+    color: blue;
+}
+
+.span2 {
+    color: green;
+}
+
+.span3 {
+    color: orange;
+}
+
+.span4 {
+    color: purple;
+}
+
+.span5 {
+    color: red;
+}
+
+.span6 {
+    color: brown;
+}
+
+.span7 {
+    color: teal;
+}
+
+.span8 {
+    color: #420c85;
+}
+
+.span9 {
+    color: gray;
+}
